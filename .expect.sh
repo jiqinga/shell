@@ -3,3 +3,4 @@ spawn sudo su
 exepct ":"
 send "ossadmin\n"
 interact
+ss
