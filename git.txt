@@ -3,5 +3,5 @@ git remote  add lml https://github.com/woshijiqinga/test1.git  用户绑定test1
 touch a.txt
 git add a.txt
 git commit  -m 'add a.txt'
-git push -u lml master                                              使用绑定用户直接上传
+git push -u origin master                                              使用绑定用户直接上传
 
